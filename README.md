@@ -59,7 +59,6 @@ The project is organized into the following folders:
 **Features** - on features we have a scenario describing the flow of contact form validation on the Mercedes-Benz vehicle website. 
 
 - Feature: Mercedes-Benz Contact Form Validation
-- Description: This feature automated the navigation and interaction with the demonstration page of Mercedes-Benz vehicles for the purpose of validating the contact form.
 - Tags: @firefox or @chrome, just tags that decide which browser to use to run the test, based on configuration in SpecFlow regarding the scenario.
 
 ```
