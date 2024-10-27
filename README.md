@@ -4,7 +4,7 @@ The Task 1 you can find on a PDF attached to the repository.
 
 # Second Exercise 
 
-This project is an automation solution for BDD using **SpecFlow** and browser automation in C# using **Microsoft Playwright**. The code is structured as per the **Page Object Model Pattern** for readability, maintainability, and reusability.
+The project was developed in **C#** using **SpecFlow** for BDD and **Playwright** for UI tests. The structure follows a modular organization, divided into several folders to ensure scalability and maintainability
 
 ## Project Structure
 
